@@ -45,6 +45,7 @@ function generateParam(configObject){
 }
 
 //No Jquery
+//Todo:
 function generateParamNJQ(configObject){
 	//Init generatedParam
 	var GenParam = {};
